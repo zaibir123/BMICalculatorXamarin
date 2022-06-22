@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5oHKudKqAgOWRNHNf1rfBFdvbmxkO0s3j9TZ5SDTHEGQKJCPdyFTQegVX0UCTWvek/E2AawDz4gHS7NuI1wSw==",
+  "success": true,
+  "projectFilePath": "D:\\PBKK\\Tugas7PBKK-main\\Xam_Bim_Calculator.iOS\\Xam_Bim_Calculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jimmy\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jimmy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jimmy\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Jimmy\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512",
+    "C:\\Users\\Jimmy\\.nuget\\packages\\xamarin.forms.pancakeview\\2.0.0.691\\xamarin.forms.pancakeview.2.0.0.691.nupkg.sha512"
+  ],
+  "logs": []
+}
